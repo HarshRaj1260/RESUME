@@ -1,0 +1,53 @@
+{
+	"basics": {
+		"name": "Harsh Raj",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/61451154?v=4",
+		"email": "2019kuec2045@iiitkota.ac.in",
+		"phone": "7240231761",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering. I have enthusiasm in Problem Solving.",
+		"location": {
+			"address": "Ward no. 7 near girls middle school,kasba,purnea",
+			"postalCode": "854330",
+			"city": "Purnea",
+			"countryCode": "India",
+			"region": "Bihar"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "HarshRaj1260",
+				"url": "https://github.com/HarshRaj1260"
+			},
+			{
+				"network": "linkedin",
+				"username": "Harsh Raj",
+				"url": "https://www.linkedin.com/in/harsh-raj-06b7541b9"
+			},
+			{
+				"network": "Instagram",
+				"username": "harsh.3810",
+				"url": "https://www.instagram.com/harsh.3810/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-04-08 //Date",
+		"endDate": "----",
+		"gpa": "7.50",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++","Java", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": []
+}
